@@ -1,5 +1,6 @@
 # bus-ticket-project
-bus ticket project I made for an assignment in uni.
+
+bus ticket project I made for an assignment in uni. Please download all csv files along with the python file to properly run the program
 
 dear marker of said project if you have not marked my project already,
 
