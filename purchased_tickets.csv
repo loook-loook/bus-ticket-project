@@ -1,0 +1,8 @@
+ticket_holder,topup_title,topup_entitlement_start_date,topup_entitlement_end_date,time_of_purchase,date_of_purchase
+test1,Bilborough College Academic Year 2025/4,2025-08-31T23:00:00+00:00,2026-07-31T22:59:00+00:00,22:48:23.450128,2026-01-11
+test1,Under 19 31 Day Cityrider,,,22:48:29.882696,2026-01-11
+test1,Under 19 24 Hour Network Rider x 48,,,22:51:31.707390,2026-01-11
+test1,Adult Single,,,15:07:35.787585,2026-01-15
+user_name,Adult Single,,,15:17:56.960355,2026-01-15
+luke,Grouprider,,,17:07:44.558327,2026-01-15
+luke,Grouprider,nan,nan,17:09:55.046749,2026-01-15
